@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 @font-face {
-    font-family: 'Droid2';
+    font-family: 'Droid';
     src: url('fontes/idroid.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
@@ -97,13 +97,13 @@ main h2{
     background-image: linear-gradient(to left, transparent, var(--cor1));
     color: var(--cor4);
     font-size: 1.3em;
-    font-family: 'Droid2', Courier, monospace;
+    font-family: 'Droid', Courier, monospace;
     font-weight: normal;
     text-indent: 8px;
 }
 main h1{
     color: var(--cor4);
-    font-family: 'Droid2', Courier, monospace;
+    font-family: 'Droid', Courier, monospace;
     padding: 15px;
     font-size: 1.8em;
     font-weight: normal;
